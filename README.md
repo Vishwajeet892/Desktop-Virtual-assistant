@@ -1,4 +1,4 @@
-# Virtual-Assistant-
+# Virtual-Desktop-Assistant
 
 
 ## Screenshots
